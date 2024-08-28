@@ -43,5 +43,5 @@
 <h2>Connect me:</h2>
 <ul>
  <li><a href="https://t.me/elencodes">Telegram</a></li>
- <li><a href="https://esadikova.codes@gmail.com">E-mail</a></li>
+ <li><a href="mailto:esadikova.codes@gmail.com">E-mail</a></li>
 </ul>
