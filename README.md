@@ -10,7 +10,7 @@
 
 <h2>About me:</h2>
 <ul>
-  <li>😎 I am Frontend Developer with a passion for Psychology and Human Behavior.</li>
+  <li>😎 I am Frontend Developer with a passion for analytics and the psychology of human behavior.</li>
   <li>🔭 Working on React JS, Vanilla JS and contributing to frontend for building websites and web applications.</li>
   <li>🌱 Сurrently exploring TypeScript, Node.js.</li>
   <li>⚡ In my free time, I read tech articles and create pet projects.</li>
