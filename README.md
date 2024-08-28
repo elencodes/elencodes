@@ -14,7 +14,7 @@
   <li>🔭 Working on React JS, Vanilla JS and contributing to frontend for building websites and web applications.</li>
   <li>🌱 Сurrently exploring TypeScript, Node.js.</li>
   <li>⚡ In my free time, I read tech articles and create pet projects.</li>
-  <li>💬 Ask me about: films, books, series,games of fantasy, dystopian or detective genres.</li>
+  <li>💬 Ask me about: films, books, series, games of fantasy, dystopian or detective genres.</li>
 </ul>
 
 <h2>Technologies and Tools:</h2>
