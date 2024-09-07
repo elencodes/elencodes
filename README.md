@@ -38,7 +38,6 @@
 
 <h2>My stats:</h2>
 <div>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=elencodes" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elencodes&layout=compact" alt="GitHub Streak" />
 </div>
 
