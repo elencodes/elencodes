@@ -37,8 +37,10 @@
 </div>
 
 <h2>My stats:</h2>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=elencodes" alt="GitHub Streak" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elencodes&layout=compact" alt="GitHub Streak" />
+<div>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=elencodes" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elencodes&layout=compact" alt="GitHub Streak" />
+</div>
 
 <h2>Connect me:</h2>
 <ul>
