@@ -1,6 +1,6 @@
 <div id="main" align="center">
-  <h1>Hi, how are you? 👋</h1>
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjZ0MmZwamJsdXd6emdyaGkwZmxheDZ2ZWl2ZDhtenR5MDJta3puOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dNgK7Ws7y176U/200.webp" width="220"/>
+  <h2>Hi, how are you? 👋</h1>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjZ0MmZwamJsdXd6emdyaGkwZmxheDZ2ZWl2ZDhtenR5MDJta3puOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dNgK7Ws7y176U/200.webp" width="200"/>
   <div id="socials">
     <a href="https://www.instagram.com/elencodes"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/></a>
     <a href="https://t.me/elencodes"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
@@ -12,8 +12,7 @@
 <ul>
   <li>😎 I am Frontend Developer with a passion for analytics and the psychology of human behavior.</li>
   <li>🔭 Working on ReactJS, Vanilla JS and contributing to frontend for building websites and web applications.</li>
-  <li>🌱 Сurrently exploring TypeScript, Node.js.</li>
-  <li>⚡ In my free time, I read tech articles and create pet projects.</li>
+  <li>🌱 Сurrently exploring TypeScript, VueJS, Node.js.</li>
 </ul>
 
 <h2>Technologies and Tools:</h2>
