@@ -1,17 +1,19 @@
 <h2>Hi, I'm Lena 👋</h2>
 <p>A highly motivated Frontend Developer with dedicated to creating websites and web applications 👩🏼‍💻</p>
+
+<ul>
+  <li>Currently I'm working on React desktop/browser apps and systems.</li>
+  <li>Also I'm diving deep into learning TypeScript, NextJS.</li>
+  <li>⚡ Technologies: React, Redux toolkit, MobX, Node.js, etc.</li>
+  <li>Have a passion for: tech, AI and fantasy books/games/TV series.</li>
+</ul>
+
 <div id="socials">
   <a href="https://www.instagram.com/elencodes"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/></a>
   <a href="https://t.me/elencodes"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
 </div>
-<img src="https://komarev.com/ghpvc/?username=elencodes&style=flat-square&color=blue" alt=""/>
 
-<h2>About me:</h2>
-<ul>
-  <li>Currently I'm working on React desktop/browser apps and systems.</li>
-  <li>Also I'm diving deep into learning TypeScript, VueJS.</li>
-  <li>Have a passion for: tech, AI and fantasy books/games/TV series.</li>
-</ul>
+<img src="https://komarev.com/ghpvc/?username=elencodes&style=flat-square&color=blue" alt=""/>
 
 <h2>Technologies and Tools:</h2>
 <div>
@@ -34,7 +36,7 @@
   <img src="https://github.com/elencodes/elencodes/blob/main/skills-tools-icons/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
 </div>
 
-<h2>My stats:</h2>
+<h2>GitHub Stats:</h2>
 <div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elencodes&layout=compact" alt="GitHub Streak" />
 </div>
