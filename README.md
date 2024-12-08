@@ -4,7 +4,7 @@
 <ul>
   <li>⚡ I'm using React, React Router, Redux toolkit and MobX in my work.</li>
   <li>Currently diving deep into learning TypeScript, NextJS.</li>
-  <li>Have a passion for AI and fantasy books/games/TV series.</li>
+  <li>Have a passion for: tech, AI and fantasy books/games/TV series.</li>
 </ul>
 
 <div id="socials">
