@@ -40,8 +40,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elencodes&layout=compact" alt="GitHub Streak" />
 </div>
 
-<h2>🌐 Connect with Me:</h2>
+<h2>🌐 Contacts:</h2>
 <ul>
  <li><a href="https://t.me/elencodes">Telegram</a></li>
  <li><a href="mailto:esadikova.codes@gmail.com">E-mail</a></li>
 </ul>
+
+Connect with me if you want to discuss technology, collaboration or offer a job!
