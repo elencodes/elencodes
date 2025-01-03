@@ -2,7 +2,7 @@
 <p>A highly motivated Frontend Developer with dedicated to creating websites and web applications 👩🏼‍💻</p>
 
 <ul>
-  <li>⚡ I'm using React, React Router, Redux toolkit and MobX in my work.</li>
+  <li>⚡ I'm using React, React Router, Redux toolkit / MobX in my work.</li>
   <li>Currently diving deep into learning TypeScript, NextJS.</li>
   <li>Have a passion for: tech, AI and fantasy books/games/TV series.</li>
 </ul>
