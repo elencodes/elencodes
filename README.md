@@ -27,7 +27,7 @@
   <img src="https://github.com/elencodes/elencodes/blob/main/skills-tools-icons/vite-original-wordmark.svg" title="Vite" alt="Vite" width="40" height="40"/>&nbsp;
   <img src="https://github.com/elencodes/elencodes/blob/main/skills-tools-icons/webpack-original-wordmark.svg" title="Webpack" alt="Webpack" width="40" height="40"/>&nbsp;
   <img src="https://github.com/elencodes/elencodes/blob/main/skills-tools-icons/git-original-wordmark1.svg" title="Git" alt="Git" width="50" height="40"/>&nbsp;
-  <img src="https://github.com/elencodes/elencodes/blob/main/skills-tools-icons/figma-original-wordmark.svg" title="Figma" alt="Figma" width="45" height="40"/>&nbsp;
+  <img src="https://github.com/elencodes/elencodes/blob/main/skills-tools-icons/figma-original-wordmark.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
 </div>
 
 <h2>GitHub Stats:</h2>
