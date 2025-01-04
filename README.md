@@ -19,7 +19,7 @@
   <img src="https://github.com/elencodes/elencodes/blob/main/skills-tools-icons/typescript-original.svg" title="Typescript" alt="Typescript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/elencodes/elencodes/blob/main/skills-tools-icons/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/elencodes/elencodes/blob/main/skills-tools-icons/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/elencodes/elencodes/blob/main/skills-tools-icons/redux-original.svg" title="Redux" alt="Redux" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/elencodes/elencodes/blob/main/skills-tools-icons/redux-original-wordmark.svg" title="Redux" alt="Redux" width="40" height="40"/>&nbsp;
   <img src="https://github.com/elencodes/elencodes/blob/main/skills-tools-icons/mobx-original.svg" title="MobX" alt="MobX" width="40" height="40"/>&nbsp;
   <img src="https://github.com/elencodes/elencodes/blob/main/skills-tools-icons/vitejs-original.svg" title="Vite" alt="Vite" width="40" height="40"/>&nbsp;
   <img src="https://github.com/elencodes/elencodes/blob/main/skills-tools-icons/webpack-original.svg" title="Webpack" alt="Webpack" width="40" height="40"/>&nbsp;
