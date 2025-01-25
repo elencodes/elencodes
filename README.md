@@ -8,7 +8,7 @@
 </ul>
 
 <div id="socials">
-  <a href="https://www.instagram.com/elencodes"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/></a>
+<!--   <a href="https://www.instagram.com/elencodes"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/></a> -->
   <a href="https://t.me/elencodes"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
 </div>
 
