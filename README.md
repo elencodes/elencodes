@@ -32,7 +32,7 @@
 
 <h2>GitHub Stats:</h2>
 <div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elencodes&layout=compact" alt="GitHub Streak" />
+  
 </div>
 
 <h2>🌐 Contacts:</h2>
